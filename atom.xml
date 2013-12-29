@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[上善若水]]></title>
+  <subtitle><![CDATA[Code Is a Poem]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-12-29T11:03:07.123Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[郑予清]]></name>
+    <email><![CDATA[greatyuqing@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[无]]></title>
+    <link href="http://yoursite.com/2013/12/28/first-blog-using-hexo/"/>
+    <id>http://yoursite.com/2013/12/28/first-blog-using-hexo/</id>
+    <published>2013-12-28T15:25:41.000Z</published>
+    <updated>2013-12-28T15:27:58.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p><em>题释：“无，名万物之始也” ————《道德经》</em></p>
+</blockquote>
+<p>今晚折腾了半天，终于成功用 Octopress 和 Github Pages 搭建成了我的第一个个人博客。诚如各位所见，布局、样式等一切都还非常简陋，都是默认配置，不过总算是完成了从无到有的转变，值得纪念一番。从此，终于也有一个完全属于我的角落，来存放自己的疯言疯语、所感所悟了。<br><a id="more"></a><br>如此而已。</p>
+]]></content>
+    <summary type="html"><![CDATA[<blockquote>
+<p><em>题释：“无，名万物之始也” ————《道德经》</em></p>
+</blockquote>
+<p>今晚折腾了半天，终于成功用 Octopress 和 Github Pages 搭建成了我的第一个个人博客。诚如各位所见，布局、样式等一切都还非常简陋，都是默认配置，不过总算是完成了从无到有的转变，值得纪念一番。从此，终于也有一个完全属于我的角落，来存放自己的疯言疯语、所感所悟了。<br>]]></summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
